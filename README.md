@@ -10,7 +10,7 @@ Refer to the friendly documentation, since it is an update to older one. Refer t
 The language specification can be found in "NQJ-Grammar". The compiler takes an NQJ program and produces an appropriate LLVM code. 
 
 
-# The Language
+# Language
 NotQuiteJava is a simple object-oriented language inspired by Java. However it is
 different in some ways. It foregoes a lot of complexity around objects and adds functions
 (that are not class members). They can be called without an instance of a class and
