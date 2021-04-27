@@ -16,7 +16,7 @@ different in some ways. It foregoes a lot of complexity around objects and adds 
 (that are not class members). They can be called without an instance of a class and
 have no corresponding this instance. These functions may be understood as static
 member functions of some fixed class that are statically imported.
-The semantics of a NotQuiteJava program are given by the semantics of the equivalent Java program with minor exceptions listed in the following. The supported language features are given implicitly by the grammar.
+The semantics of a NotQuiteJava program are given by the semantics of the equivalent Java program with minor exceptions listed in the following. The supported language features are given implicitly by the grammar.
 
 • Overloading of functions and methods is not supported in NotQuiteJava.
 
